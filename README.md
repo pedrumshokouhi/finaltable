@@ -4,6 +4,12 @@ An offline iOS puzzle game that teaches probability, position, resource manageme
 
 No real money, no gambling, no account, no network. Educational vocabulary by default.
 
+<p align="center">
+  <img src="AppStore/screenshots/iphone-6.9/02-home.png" alt="Home: levels played, stars earned, best score, and how scoring works" width="32%">
+  <img src="AppStore/screenshots/iphone-6.9/04-puzzle.png" alt="A puzzle: the table, your hand, a probability slider, four actions and a confidence choice" width="32%">
+  <img src="AppStore/screenshots/iphone-6.9/05-results.png" alt="Results: 923 out of 1,000, three stars, the breakdown, the recommended action and the coach's explanation" width="32%">
+</p>
+
 ## How a puzzle works
 
 1. Read the table: your cards, the shared cards, the stacks, the position, the pressure.
